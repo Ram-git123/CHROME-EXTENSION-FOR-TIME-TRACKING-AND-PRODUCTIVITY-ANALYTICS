@@ -137,3 +137,14 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# --- Chrome Extension Specific ---
+# Private key files used to sign the extension for the Web Store
+*.pem
+# Packed extension files (use these only for local testing, don't upload to Git)
+*.crx
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+desktop.ini

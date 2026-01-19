@@ -1,34 +1,61 @@
 # CHROME-EXTENSION-FOR-TIME-TRACKING-AND-PRODUCTIVITY-ANALYTICS
 
-# 🍪 ByteBreak
+# 🍪 ByteBreak: Focus & Productivity Tracker
 
-****"ByteBreak is a lightweight Chrome Extension that helps developers maintain deep work by tracking productive "Bytes" and alerting you when you've spent too much time on distracting sites."****
+****ByteBreak is a full-stack productivity tool that combines a Chrome Extension with a local analytics server. It monitors your browsing habits in real-time, categorizing your time into "Productive" work and "Unproductive" distractions (the Cookie Jar), then visualizes that data on a beautiful web dashboard.****
 
-# 🚀 The Concept
+# 🚀 Project Overview
 
-****The name is a play on words:****
+****The project is split into two main components:****
 
-****Byte: Represents your data, code, and hard work.****
+****Chrome Extension: The "sensor" that tracks active tab time and provides a quick-view popup.****
 
-****Break: Reminds you to step away from distractions and take meaningful rests once you've earned them.****
+****Node.js Backend: A robust server that persists your data to data.json and provides API endpoints for deep analytics.****
+
+# ✨ Key Features
+
+****Real-time Tracking: Monitors active tab focus and browser window state to ensure accurate time logging.****
+
+****Domain Classification: * Productive: GitHub, StackOverflow, MDN, Coursera, etc.****
+
+****Cookie Jar: YouTube, Netflix, Reddit, and Social Media.****
+
+****Quick Popup: A glassmorphism-styled extension popup to see your daily productivity percentage at a glance.****
+
+****Analytics Dashboard: A full-screen web interface featuring Chart.js visualizations for weekly trends and daily summaries.****
+
+****Local Persistence: Data is stored locally on your machine, ensuring your browsing habits stay private.****
 
 # 🛠️ Tech Stack
 
-****Manifest V3: Built using the latest Chrome Extension standards.****
+****Frontend: HTML5, CSS3 (Custom Glassmorphism), JavaScript (ES6), Chart.js.****
 
-****JavaScript: Pure logic for tracking, alarms, and storage management.****
+****Extension: Manifest V3, Chrome Scripting & Storage APIs.****
 
-****CSS: Custom retro-console styling with a "Biscuit Gold" and "Console Green" color palette.****
+****Backend: Node.js, Express.js, CORS, File System (fs) for JSON storage.****
 
-****Chrome APIs: Utilizes chrome.storage, chrome.alarms, and chrome.notifications.****
+# 📦 Installation & Setup
 
-# 📦 Installation
+****1. The Backend (Analytics Server)****
 
-****Clone this repository: git clone https://github.com/YOUR_USERNAME/bytebreak-extension.git****
+****Navigate to the backend directory****
+
+cd backend
+
+****Install dependencies****
+
+npm install
+
+Start the server (runs on http://localhost:3000)
+
+npm start
+
+****2. The Chrome Extension****
 
 ****Open Chrome and navigate to chrome://extensions/.****
 
-****Enable Developer Mode (top right).****
+****Enable Developer Mode in the top-right corner.****
 
-****Click Load Unpacked and select the project folder.****
+****Click Load Unpacked.****
 
+****Select the folder containing your manifest.json and extension files.****

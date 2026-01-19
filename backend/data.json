@@ -1,0 +1,584 @@
+{
+  "sessions": [
+    {
+      "domain": "extensions",
+      "timeSpent": 1,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:15:34.505Z"
+    },
+    {
+      "domain": "extensions",
+      "timeSpent": 5,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:15:42.330Z"
+    },
+    {
+      "domain": "ldfpmilebeiajkolnoecdlpeikndnjda",
+      "timeSpent": 6,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:15:49.874Z"
+    },
+    {
+      "domain": "extensions",
+      "timeSpent": 1,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:16:09.568Z"
+    },
+    {
+      "domain": "newtab",
+      "timeSpent": 2,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:16:16.893Z"
+    },
+    {
+      "domain": "newtab",
+      "timeSpent": 2,
+      "category": "productive",
+      "timestamp": "2026-01-18T04:16:19.813Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 1,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:16:32.586Z"
+    },
+    {
+      "domain": "google.com",
+      "timeSpent": 4,
+      "category": "productive",
+      "timestamp": "2026-01-18T04:16:38.682Z"
+    },
+    {
+      "domain": "extensions",
+      "timeSpent": 1,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:16:43.364Z"
+    },
+    {
+      "domain": "extensions",
+      "timeSpent": 17,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:17:29.273Z"
+    },
+    {
+      "domain": "ldfpmilebeiajkolnoecdlpeikndnjda",
+      "timeSpent": 7,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:17:38.345Z"
+    },
+    {
+      "domain": "google.com",
+      "timeSpent": 1,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:17:46.202Z"
+    },
+    {
+      "domain": "google.com",
+      "timeSpent": 2,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:17:49.810Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 3,
+      "category": "productive",
+      "timestamp": "2026-01-18T04:17:53.274Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 4,
+      "category": "productive",
+      "timestamp": "2026-01-18T04:17:59.274Z"
+    },
+    {
+      "domain": "extensions",
+      "timeSpent": 3,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:19:34.300Z"
+    },
+    {
+      "domain": "localhost",
+      "timeSpent": 1,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:19:37.532Z"
+    },
+    {
+      "domain": "localhost",
+      "timeSpent": 6,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:19:47.063Z"
+    },
+    {
+      "domain": "localhost",
+      "timeSpent": 1,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:20:00.280Z"
+    },
+    {
+      "domain": "extensions",
+      "timeSpent": 1,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:20:03.719Z"
+    },
+    {
+      "domain": "ldfpmilebeiajkolnoecdlpeikndnjda",
+      "timeSpent": 2,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:20:15.148Z"
+    },
+    {
+      "domain": "localhost",
+      "timeSpent": 2,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:21:01.075Z"
+    },
+    {
+      "domain": "claude.ai",
+      "timeSpent": 2,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:21:04.855Z"
+    },
+    {
+      "domain": "newtab",
+      "timeSpent": 1,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:22:28.697Z"
+    },
+    {
+      "domain": "extensions",
+      "timeSpent": 4,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:23:07.042Z"
+    },
+    {
+      "domain": "extensions",
+      "timeSpent": 6,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:27:45.710Z"
+    },
+    {
+      "domain": "ldfpmilebeiajkolnoecdlpeikndnjda",
+      "timeSpent": 3,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:27:50.323Z"
+    },
+    {
+      "domain": "extensions",
+      "timeSpent": 9,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:28:04.978Z"
+    },
+    {
+      "domain": "extensions",
+      "timeSpent": 1,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:28:47.060Z"
+    },
+    {
+      "domain": "google.com",
+      "timeSpent": 5,
+      "category": "unknown",
+      "timestamp": "2026-01-18T04:28:53.589Z"
+    },
+    {
+      "domain": "youtube.com",
+      "timeSpent": 1,
+      "category": "unproductive",
+      "timestamp": "2026-01-18T04:28:56.889Z"
+    },
+    {
+      "domain": "youtube.com",
+      "timeSpent": 1,
+      "category": "unproductive",
+      "timestamp": "2026-01-18T04:29:03.286Z"
+    },
+    {
+      "domain": "youtube.com",
+      "timeSpent": 3,
+      "category": "unproductive",
+      "timestamp": "2026-01-18T04:29:15.529Z"
+    },
+    {
+      "domain": "extensions",
+      "timeSpent": 2,
+      "category": "unproductive",
+      "timestamp": "2026-01-18T04:29:27.904Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 2,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:14:29.346Z"
+    },
+    {
+      "domain": "newtab",
+      "timeSpent": 1,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:14:36.899Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 17,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:14:57.098Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 2,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:16:17.356Z"
+    },
+    {
+      "domain": "newtab",
+      "timeSpent": 1,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:18:21.040Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 5,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:18:35.752Z"
+    },
+    {
+      "domain": "youtube.com",
+      "timeSpent": 12,
+      "category": "unproductive",
+      "timestamp": "2026-01-19T14:18:49.611Z"
+    },
+    {
+      "domain": "youtube.com",
+      "timeSpent": 2,
+      "category": "unproductive",
+      "timestamp": "2026-01-19T14:19:09.488Z"
+    },
+    {
+      "domain": "youtube.com",
+      "timeSpent": 22,
+      "category": "unproductive",
+      "timestamp": "2026-01-19T14:19:49.601Z"
+    },
+    {
+      "domain": "newtab",
+      "timeSpent": 1,
+      "category": "unproductive",
+      "timestamp": "2026-01-19T14:20:06.577Z"
+    },
+    {
+      "domain": "newtab",
+      "timeSpent": 9,
+      "category": "unknown",
+      "timestamp": "2026-01-19T14:20:19.600Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 1,
+      "category": "unknown",
+      "timestamp": "2026-01-19T14:20:51.497Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 17,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:21:19.591Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 23,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:24:04.437Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 30,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:25:23.557Z"
+    },
+    {
+      "domain": "newtab",
+      "timeSpent": 26,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:28:26.063Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 2,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:28:29.410Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 6,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:28:59.402Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 27,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:29:29.406Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 2,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:32:57.854Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 7,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:33:35.213Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 3,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:33:55.342Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 9,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:34:25.341Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 1,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:34:55.347Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 5,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:36:37.460Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 30,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:41:32.045Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 15,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:41:51.153Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 7,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:42:02.036Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 19,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:42:32.034Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 8,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:52:44.768Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 20,
+      "category": "productive",
+      "timestamp": "2026-01-19T14:54:27.868Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 6,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:02:17.127Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 6,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:02:47.136Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 13,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:03:17.125Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 30,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:04:27.939Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 2,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:05:57.338Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 4,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:06:07.327Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 4,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:06:17.589Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 28,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:06:54.396Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 2,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:08:30.026Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 2,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:08:54.293Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 3,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:09:03.796Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 7,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:09:26.992Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 3,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:10:16.254Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 7,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:10:42.750Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 8,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:11:35.089Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 30,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:13:28.695Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 18,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:13:55.296Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 11,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:14:50.094Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 14,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:15:08.322Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 12,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:16:00.381Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 14,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:16:33.310Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 3,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:16:48.235Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 3,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:57:23.317Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 10,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:57:41.495Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 3,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:57:58.154Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 1,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:58:06.475Z"
+    },
+    {
+      "domain": "github.com",
+      "timeSpent": 30,
+      "category": "productive",
+      "timestamp": "2026-01-19T15:59:46.541Z"
+    }
+  ],
+  "dailyStats": {
+    "2026-01-18": {
+      "productive": {
+        "newtab": 2,
+        "google.com": 4,
+        "github.com": 7
+      },
+      "unproductive": {
+        "youtube.com": 5,
+        "extensions": 2
+      },
+      "totalProductive": 13,
+      "totalUnproductive": 7
+    },
+    "2026-01-19": {
+      "productive": {
+        "github.com": 531,
+        "newtab": 28
+      },
+      "unproductive": {
+        "youtube.com": 36,
+        "newtab": 1
+      },
+      "totalProductive": 559,
+      "totalUnproductive": 37
+    }
+  },
+  "weeklyStats": []
+}
